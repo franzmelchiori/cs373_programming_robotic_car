@@ -7,9 +7,8 @@
      Homework of Unit 01
      Localizer
 """
-#   Francesco Melchiori, 2011, 2012                                            #
-#   melchiori@disi.unitn.it                                                    #
-#   NiLab FBK CIMeC DISI UniTN                                                 #
+#   Francesco Melchiori, 2012                                                  #
+#   franzmelchiori@gmail.com                                                   #
 #                                                                              #
 ################################################################################
 
